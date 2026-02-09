@@ -2,7 +2,7 @@
 
 A Flutter chat application where you ask yes/no questions to a character named **Lana**, and she replies with a random answer and a GIF from the [yesno.wtf](https://yesno.wtf) API.
 
-<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/6c4cce22-ca91-4e32-8686-f6b2c28b65bd" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6c4cce22-ca91-4e32-8686-f6b2c28b65bd" />
 
 
 ## How It Works
